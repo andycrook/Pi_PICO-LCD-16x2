@@ -11,7 +11,7 @@
 # 3 : Contrast (0-5V) via variable resistor
 # 4 : RS (Register Select)   - PIN 7
 # 5 : R/W (Read Write)       - CONNECT PIN TO GROUND
-# 6 : Enable or Strobe       - PIN 8
+# 6 : Enable                 - PIN 8
 # 7 : Data Bit 0             - NOT USED
 # 8 : Data Bit 1             - NOT USED
 # 9 : Data Bit 2             - NOT USED
